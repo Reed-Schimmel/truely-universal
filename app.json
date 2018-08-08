@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "expo-blank-project-react-native-web",
-    "description": "This project is really great.",
-    "slug": "expo-blank-project-react-native-web",
+    "name": "truely-universal",
+    "description": "This project is really great on all platforms.",
+    "slug": "truely-universal",
     "privacy": "public",
     "sdkVersion": "29.0.0",
     "platforms": [
