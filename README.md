@@ -1,4 +1,4 @@
-# expo-blank-project-react-native-web
+# expo-blank-project-react-native-web UPDATED TO SDK 29
 
 This repo can be generated from scratch using the following procedure:
 
